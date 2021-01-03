@@ -1,0 +1,1100 @@
+@media screen and (max-width: 1150px){
+	.owl-carousel {
+		height: 80vh;
+	}
+	.slide{
+		height: 80vh;
+	}
+	.banner-img{
+		width: 80px;
+	}
+}
+
+@media screen and (max-width: 910px){
+	.slide{
+		height: 70vh;
+	}
+	.banner-img{
+		width: 60px;
+	}
+	.box-shadow{
+		height: 160px;
+	}
+	.box-shadow h2{
+		font-size: 20px;
+	}
+	.banner-btn{
+		font-size: 14px;
+	}
+	.fa-angellist, .fa-store-alt-slash{
+		display: none;
+	}
+	.reservation-chart {
+		width: 600px;
+	}
+	.section-1{
+		bottom: 399px;
+		left: 142px;
+		font-size: 20px;
+		padding: 19px 3px;
+	}
+	.section-1d {
+		bottom: 397px;
+		left: 142px;
+		padding: 8px 34px;
+	}
+	.section-2{
+		bottom: 399px;
+		left: 262px;
+		font-size: 20px;
+		padding: 19px 4px;
+	}
+	.section-2d {
+		bottom: 397px;
+		left: 213px;
+		padding: 8px 34px;
+	}
+	.section-3{
+		bottom: 284px;
+		left: 302px;
+		font-size: 20px;
+		padding: 2px 2px;
+	}
+	.section-4{
+		bottom: 202px;
+		left: 351px;
+		font-size: 19px;
+		padding: 1px 2px;
+	}
+	.section-5{
+		bottom: 202px;
+		left: 309px;
+		font-size: 19px;
+		padding: 1px 2px;
+	}
+	.section-6{
+		bottom: 202px;
+		left: 291px;
+		font-size: 19px;
+		padding: 1px 2px;
+	}
+	.section-7{
+		bottom: 202px;
+		left: 250px;
+		font-size: 19px;
+		padding: 1px 2px;
+	}
+	.section-8{
+		bottom: 258px;
+		left: 114px;
+		font-size: 16px;
+		padding: 4px 3px;
+	}
+	.section-9{
+		bottom: 181px;
+		left: 94px;
+		font-size: 19px;
+		padding: 5px 3px;
+	}
+	.section-10{
+		bottom: 157px;
+		left: 145px;
+		font-size: 12px;
+		padding: 5px 0px;
+	}
+	.section-11{
+		bottom: 141px;
+		left: 94px;
+		font-size: 15px;
+		padding: 7px 0px;
+	}
+	.section-12{
+		bottom: 107px;
+		left: 94px;
+		font-size: 15px;
+		padding: 5px 0px;
+	}
+	.section-13{
+		bottom: 168px;
+		left: 250px;
+		font-size: 13px;
+		padding: 5px 0px;
+	}
+	.section-14{
+		bottom: 168px;
+		left: 290px;
+		font-size: 13px;
+		padding: 5px 0px;
+	}
+	.section-15{
+		bottom: 168px;
+		left: 309px;
+		font-size: 13px;
+		padding: 5px 0px;
+	}
+	.section-16{
+		bottom: 168px;
+		left: 351px;
+		font-size: 13px;
+		padding: 5px 0px;
+	}
+	.section-17{
+		bottom: 430px;
+		left: 98px;
+		font-size: 9px;
+		padding: 9px 3px;
+	}
+	.section-18{
+		bottom: 433px;
+		left: 291px;
+		font-size: 8px;
+		padding: 9px 3px;
+	}
+	.section-19{
+		bottom:455px;
+		left:322px;
+		font-size:15px;
+		padding: 3px 16px;
+	}
+	.section-20{
+		bottom:455px;
+		left:268px;
+		font-size:15px;
+		padding:3px 16px;
+	}
+	.section-21{
+		bottom:452px ;
+		left:174px;
+		font-size:20px ;
+		padding:7px 30px;
+	}
+	.section-22{
+		bottom:455px ;
+		left: 113px;
+		font-size: 15px;
+		padding:3px 17px ;
+	}
+	.section-23{
+		bottom:455px ;
+		left:59px ;
+		font-size:15px ;
+		padding:3px 17px ;
+	}
+	.section-24{
+		bottom:311px ;
+		left:58px ;
+		font-size:15px ;
+		padding:7px 5px ;
+	}
+	.section-25{
+		bottom:269px;
+		left:58px ;
+		font-size:15px ;
+		padding:7px 5px ;
+	}
+	.section-26{
+		bottom:211px;
+		left:66px ;
+		font-size:15px ;
+		padding:8px 17px ;
+	}
+	.section-27{
+		bottom:176px ;
+		left:58px ;
+		font-size:15px ;
+		padding:1px 0px ;
+	}
+	.section-28{
+		bottom:147px ;
+		left:58px ;
+		font-size:15px ;
+		padding:1px 0px ;
+	}
+	.section-29{
+		bottom:311px ;
+		left:333px ;
+		font-size:15px ;
+		padding:7px 5px;
+	}
+	.section-30{
+		bottom:269px;
+		left:333px ;
+		font-size:15px ;
+		padding:7px 5px ;
+	}
+	.section-31{
+		bottom:222px ;
+		left:293px ;
+		font-size: 15px;
+		padding:8px 17px ;
+	}
+	.section-32{
+		bottom:202px ;
+		left:263px ;
+		font-size:12px ;
+		padding:0px 2px ;
+	}
+	.section-33{
+		bottom:179px ;
+		left:263px ;
+		font-size:12px ;
+		padding:0px 2px ;
+	}
+	.section-34{
+		bottom:156px ;
+		left:262px ;
+		font-size:12px ;
+		padding: 0px 2px;
+	}
+	.section-35{
+		bottom:118px ;
+		left:273px ;
+		font-size:8px ;
+		padding:0px 10px ;
+	}
+	.section-36{
+		bottom:118px ;
+		left:305px ;
+		font-size:8px ;
+		padding:0px 10px ;
+	}
+	.section-37{
+	    bottom:199px ;
+		left:341px ;
+		font-size:11px ;
+		padding:0px 4px ;
+	}
+	.section-38{
+		bottom:180px ;
+		left:341px ;
+		font-size:11px ;
+		padding:0px 4px ;
+	}
+	.section-39{
+		bottom:160px ;
+		left:341px ;
+		font-size:11px ;
+		padding:0px 4px ;
+	}
+	.section-40{
+		bottom:141px ;
+		left:341px ;
+		font-size:10px ;
+		padding:0px 4px ;
+	}
+}
+
+@media screen and (max-width: 830px){
+	.owl-carousel {
+		height: 60vh;
+	}
+	.slide{
+		height: 60vh;
+	}
+	.box-shadow{
+		height: 130px;
+		padding-left: 15px;
+		padding-top: 0px;
+	}
+	.box-shadow h2{
+		font-size: 15px;
+	}
+	.banner-btn{
+		padding: 7px;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.owl-carousel {
+		height: 40vh;
+	}
+	.slide{
+		height: 40vh;
+	}
+	.slide-content h1{
+		font-size: 25px;
+	}
+	.slide-content p{
+		font-size: 14px;
+	}
+	.slide-content a{
+		font-size: 11px;
+	}
+	.banner-img{
+		width: 40px;
+	}
+	.box-shadow h2{
+		margin-bottom: 8px;
+	}
+	.banner-btn{
+		padding: 5px;
+		font-size: 10px;
+	}
+	.reservation-chart{
+		width: 450px;
+	}
+	.section-1 {
+		bottom: 299px;
+		left: 107px;
+		font-size: 14px;
+		padding: 14px 2px;
+	}
+	.section-1d{
+		bottom: 299px;
+		left: 107px;
+		padding: 5px 24px;
+	}
+	.section-2 {
+		bottom: 298px;
+		left: 196px;
+		font-size: 14px;
+		padding: 15px 3px;
+	}
+	.section-2d{
+		bottom: 299px;
+		left: 158px;
+		padding: 5px 26px;
+	}
+	.section-3 {
+		bottom: 214px;
+		left: 226px;
+		font-size: 13px;
+		padding: 2px 2px;
+	}
+	.section-4 {
+		bottom: 152px;
+		left: 264px;
+		font-size: 13px;
+		padding: 1px 1px;
+	}
+	.section-5 {
+		bottom: 151px;
+		left: 232px;
+		font-size: 14px;
+		padding: 1px 1px;
+	}
+	.section-6 {
+		bottom: 151px;
+		left: 218px;
+		font-size: 14px;
+		padding: 1px 1px;
+	}
+	.section-7 {
+		bottom: 151px;
+		left: 188px;
+		font-size: 14px;
+		padding: 1px 1px;
+	}
+	.section-8 {
+		bottom: 194px;
+		left: 86px;
+		font-size: 14px;
+		padding: 1px 1px;
+	}
+	.section-9 {
+		bottom: 136px;
+		left: 71px;
+		font-size: 14px;
+		padding: 3px 1px;
+	}
+
+	.section-10 {
+		bottom: 118px;
+		left: 108px;
+		font-size: 10px;
+		padding: 3px 0px;
+	}
+	.section-11 {
+		bottom: 106px;
+		left: 71px;
+		font-size: 10px;
+		padding: 6px 0px;
+	}
+	.section-12 {
+		bottom: 80px;
+		left: 71px;
+		font-size: 10px;
+		padding: 4px 0px;
+	}
+	.section-13 {
+		bottom: 126px;
+		left: 188px;
+		font-size: 10px;
+		padding: 3px 0px;
+	}
+	.section-14 {
+		bottom: 126px;
+		left: 218px;
+		font-size: 10px;
+		padding: 3px 0px;
+	}
+	.section-15 {
+		bottom: 126px;
+		left: 231px;
+		font-size: 10px;
+		padding: 3px 0px;
+	}
+	.section-16 {
+		bottom: 126px;
+		left: 263px;
+		font-size: 10px;
+		padding: 3px 0px;
+	}
+	.section-17 {
+		bottom: 322px;
+		left: 73px;
+		font-size: 8px;
+		padding: 5px 2px;
+	}
+	.section-18 {
+		bottom: 325px;
+		left: 217px;
+		font-size: 8px;
+		padding: 5px 2px;
+	}
+	.section-19{
+		bottom:340px ;
+		left: 241px;
+		font-size: 10px;
+		padding:3px 13px ;
+	}
+	.section-20{
+		bottom:340px ;
+		left: 200px;
+		font-size: 10px;
+		padding:3px 13px ;
+	}
+	.section-21{
+		bottom:340px ;
+		left: 131px;
+		font-size: 15px;
+		padding:5px 22px ;
+	}
+	.section-22{
+		bottom:340px;
+		left: 86px;
+		font-size: 10px;
+		padding:3px 13px ;
+	}
+	.section-23{
+		bottom:340px ;
+		left: 45px;
+		font-size: 10px;
+		padding:3px 13px ;
+	}
+	.section-24{
+		bottom:231px ;
+		left:43px ;
+		font-size: 12px;
+		padding:5px 4px ;
+	}
+	.section-25{
+		bottom:200px ;
+		left: 43px;
+		font-size: 12px;
+		padding:5px 4px ;
+	}
+	.section-26{
+		bottom:158px ;
+		left: 51px;
+		font-size: 12px;
+		padding:6px 11px ;
+	}
+	.section-27{
+		bottom:133px ;
+		left: 45px;
+		font-size: 12px;
+		padding:0px 0px ;
+	}
+	.section-28{
+		bottom:110px ;
+		left: 45px;
+		font-size: 12px;
+		padding:0px 0px ;
+	}
+	.section-29{
+		bottom:233px ;
+		left:248px ;
+		font-size: 12px;
+		padding:5px 4px ;
+	}
+	.section-30{
+		bottom:202px ;
+		left:249px ;
+		font-size: 11px;
+		padding:5px 4px ;
+	}
+	.section-31{
+		bottom:165px ;
+		left:222px ;
+		font-size: 11px;
+		padding:7px 11px ;
+	}
+     .section-32{
+		bottom:150px ;
+		left:197px ;
+		font-size: 11px;
+		padding:0px 0px ;
+	}
+	.section-33{
+		bottom:133px ;
+		left:197px ;
+		font-size: 10px;
+		padding:0px 0px ;
+	}
+	.section-34{
+		bottom:115px ;
+		left:197px ;
+		font-size: 11px;
+		padding:0px 0px ;
+
+	}
+	.section-35{
+		bottom:88px ;
+		left:205px ;
+		font-size: 7px;
+		padding:0px 5px ;
+	}
+	.section-36{
+		bottom:88px ;
+		left:228px ;
+		font-size: 7px;
+		padding:0px 5px ;
+	}
+	.section-37{
+		bottom:148px ;
+		left:255px ;
+		font-size: 8px;
+		padding:0px 3px ;
+	}
+	.section-38{
+		bottom:132px ;
+		left:255px ;
+		font-size: 8px;
+		padding:0px 3px ;
+	}
+	.section-39{
+		bottom:120px ;
+		left:255px ;
+		font-size: 8px;
+		padding:0px 3px ;
+
+	}
+	.section-40{
+		bottom:104px ;
+		left:255px ;
+		font-size: 8px;
+		padding:0px 3px ;
+	}
+}
+
+@media screen and (max-width: 470px){
+	.reservation-chart{
+		width: 390px;
+	}
+	.section-1 {
+		bottom: 258px;
+		left: 92px;
+		font-size: 11px;
+		padding: 14px 2px;
+	}
+	.section-1d{
+		bottom: 258px;
+		left: 92px;
+		padding: 5px 21px;
+	}
+	.section-2 {
+		bottom: 258px;
+		left: 170px;
+		font-size: 11px;
+		padding: 14px 2px;
+	}
+	.section-2d{
+		bottom: 258px;
+		left: 138px;
+		padding: 5px 21px;
+	}
+	.section-3 {
+		bottom: 185px;
+		left: 196px;
+		font-size: 13px;
+		padding: 1px 1px;
+	}
+	.section-4 {
+		bottom: 131px;
+		left: 228px;
+		font-size: 12px;
+		padding: 1px 1px;
+	}
+	.section-5 {
+		bottom: 130px;
+		left: 200px;
+		font-size: 13px;
+		padding: 1px 1px;
+	}
+	.section-6 {
+		bottom: 130px;
+		left: 188px;
+		font-size: 13px;
+		padding: 1px 1px;
+	}
+	.section-7 {
+		bottom: 130px;
+		left: 162px;
+		font-size: 13px;
+		padding: 1px 1px;
+	}
+	.section-8 {
+		bottom: 167px;
+		left: 73px;
+		font-size: 14px;
+		padding: 0px 1px;
+	}
+	.section-9 {
+		bottom: 117px;
+		left: 61px;
+		font-size: 13px;
+		padding: 2px 1px;
+	}
+	.section-10 {
+		bottom: 102px;
+		left: 94px;
+		font-size: 8px;
+		padding: 3px 0px;
+	}
+	.section-11 {
+		bottom: 91px;
+		left: 61px;
+		font-size: 9px;
+		padding: 5px 0px;
+	}
+	.section-12 {
+		bottom: 70px;
+		left: 61px;
+		font-size: 8px;
+		padding: 3px 1px;
+	}
+	.section-13 {
+		bottom: 107px;
+		left: 162px;
+		font-size: 8px;
+		padding: 4px 0px;
+	}
+	.section-14 {
+		bottom: 109px;
+		left: 188px;
+		font-size: 8px;
+		padding: 3px 0px;
+	}
+	.section-15 {
+		bottom: 109px;
+		left: 200px;
+		font-size: 8px;
+		padding: 3px 0px;
+	}
+	.section-16 {
+		bottom: 109px;
+		left: 228px;
+		font-size: 8px;
+		padding: 3px 0px;
+	}
+	.section-17 {
+		bottom: 279px;
+		left: 62px;
+		font-size: 8px;
+		padding: 4px 1px;
+	}
+	.section-18 {
+		bottom: 281px;
+		left: 187px;
+		font-size: 8px;
+		padding: 4px 1px;
+	}
+	.section-19{
+		bottom:295px ;
+		left: 209px;
+		font-size: 10px;
+		padding:1px 10px ;
+	}
+	.section-20{
+		bottom:295px ;
+		left: 173px;
+		font-size: 9px;
+		padding:2px 10px ;
+	}
+	.section-21{
+		bottom:294px ;
+		left: 114px;
+		font-size: 10px;
+		padding:3px 20px ;
+	}
+	.section-22{
+		bottom:295px ;
+		left: 74px;
+		font-size: 10px;
+		padding:1px 10px ;
+	}
+	.section-23{
+		bottom:295px ;
+		left: 39px;
+		font-size: 10px;
+		padding:1px 10px ;
+	}
+	.section-24{
+		bottom:201px ;
+		left: 37px;
+		font-size: 11px;
+		padding:4px 2px ;
+	}
+	.section-25{
+		bottom:175px ;
+		left: 37px;
+		font-size: 11px;
+		padding:4px 2px ;
+	}
+	.section-26{	
+		bottom:137px ;
+		left: 42px;
+		font-size: 10px;
+		padding:5px 10px ;
+	}
+	.section-27{
+		bottom:110px ;
+		left: 37px;
+		font-size: 10px;
+		padding:1px 0px ;
+	}
+	.section-28{
+		bottom:90px ;
+		left: 37px;
+		font-size: 10px;
+		padding:1px 0px ;
+	}
+	.section-29{
+		bottom:201px ;
+		left: 216px;
+		font-size: 11px;
+		padding:4px 2px ;
+	}
+	.section-30{
+		bottom:175px ;
+		left: 216px;
+		font-size: 11px;
+		padding:4px 2px ;
+	}
+	.section-31{	
+		bottom:144px ;
+		left: 191px;
+		font-size: 10px;
+		padding:5px 10px ;
+	}
+	.section-32{
+		bottom:130px;
+		left:170px;
+		font-size:9px ;
+		padding:0px 0px;
+	}
+	.section-33{
+		bottom:115px;
+		left:170px;
+		font-size:9px ;
+		padding:0px 0px;
+	}
+	.section-34{
+		bottom:100px;
+		left:170px;
+		font-size:9px ;
+		padding:0px 0px;
+	}
+	.section-35{
+		bottom:77px;
+		left:176px;
+		font-size:5px;
+		padding:0px 6px;
+	}
+	.section-36{
+		bottom:77px;
+		left:197px;
+		font-size:5px ;
+		padding:0px 6px;
+	}
+	.section-37{
+		bottom:127px;
+		left:221px;
+		font-size:7px ;
+		padding:0px 2px;
+	}
+	.section-38{
+		bottom:114px;
+		left:221px;
+		font-size:7px ;
+		padding:0px 2px;
+	}
+	.section-39{
+		bottom:101px;
+		left:221px;
+		font-size:7px ;
+		padding:0px 2px;
+	}
+	.section-40{
+		bottom:88px;
+		left:221px;
+		font-size:7px ;
+		padding:0px 2px;
+	}
+}
+
+@media screen and (max-width: 360px){
+	.reservation-chart{
+		width: 350px;
+	}
+	.section-1{
+		bottom: 232px;
+		left: 82px;
+		font-size: 11px;
+		padding: 11px 2px;
+	}
+	.section-1d{
+		bottom: 232px;
+		left: 82px;
+		padding: 4px 20px;
+	}
+	.section-2{
+		bottom: 232px;
+		left: 152px;
+		font-size: 11px;
+		padding: 11px 2px;
+	}
+	.section-2d{
+		bottom: 232px;
+		left: 124px;
+		padding: 4px 19px;
+	}
+	.section-3{
+		bottom:166px;
+		left:175px;
+		font-size:11px ;
+		padding:2px 2px;
+	}
+	.section-4{
+		bottom:116px;
+		left:203px;
+		font-size:11px ;
+		padding:2px 2px;
+	}
+	.section-5{
+		bottom:116px;
+		left:180px;
+		font-size:11px ;
+		padding:2px 2px;
+	}
+	.section-6{
+		bottom:116px;
+		left:168px;
+		font-size:11px ;
+		padding:2px 2px;
+	}
+	.section-7{
+		bottom:116px;
+		left:145px;
+		font-size:11px ;
+		padding:2px 2px;
+	}
+	.section-8{
+		bottom:151px;
+		left:65px;
+		font-size:10px ;
+		padding:1px 2px;
+	}
+	.section-9{
+		bottom: 106px;
+		left: 55px;
+		font-size: 10px;
+		padding: 2px 1px;
+	}
+	.section-10{
+		bottom:92px;
+		left:84px;
+		font-size:8px ;
+		padding:1px 0px;
+	}
+	.section-11{
+		bottom: 82px;
+		left: 55px;
+		font-size: 7px;
+		padding: 5px 0px;
+	}
+	.section-12{
+		bottom:62px;
+		left:55px;
+		font-size:7px ;
+		padding:3px 0px;
+	}
+	.section-13{
+		bottom:98px;
+		left:145px;
+		font-size:8px ;
+		padding:2px 1px;
+	}.section-14{
+		bottom:98px;
+		left:168px;
+		font-size:8px ;
+		padding:2px 1px;
+	}
+	.section-15{
+		bottom:98px;
+		left:180px;
+		font-size:8px ;
+		padding:2px 1px;
+	}
+	.section-16{
+		bottom:98px;
+		left:203px;
+		font-size:8px ;
+		padding:2px 1px;
+	}
+	.section-17{
+		bottom:251px;
+		left:56px;
+		font-size:8px ;
+		padding:2px 1px;
+	}
+	.section-18{
+		bottom:252px;
+		left:169px;
+		font-size:8px ;
+		padding:3px 0px;
+	}
+	.section-19{
+		bottom:264px;
+		left:187px;
+		font-size:8px ;
+		padding:2px 10px;
+	}
+	.section-20{
+		bottom:264px;
+		left:155px;
+		font-size:8px ;
+		padding:2px 11px;
+	}
+	.section-21{
+		bottom:264px;
+		left:100px;
+		font-size:12px ;
+		padding:3px 18px;
+	}
+	.section-22{
+		bottom:264px;
+		left:66px;
+		font-size:8px ;
+		padding:2px 10px;
+	}
+	.section-23{
+		bottom:264px;
+		left:34px;
+		font-size:8px ;
+		padding:2px 10px;
+	}
+	.section-24{
+		bottom:181px;
+		left:34px;
+		font-size:10px ;
+		padding:3px 2px;
+	}
+	.section-25{
+		bottom:155px;
+		left:34px;
+		font-size:10px ;
+		padding:3px 2px;
+	}
+	.section-26{
+		bottom:122px;
+		left:37px;
+		font-size:10px ;
+		padding:4px 10px;
+	}
+	.section-27{
+		bottom:100px;
+		left:34px;
+		font-size:6px ;
+		padding:3px 2px;
+	}
+	.section-28{
+		bottom:82px;
+		left:34px;
+		font-size:6px ;
+		padding:3px 2px;
+	}
+	.section-29{
+		bottom:181px;
+		left:194px;
+		font-size:10px ;
+		padding:3px 2px;
+	}
+	.section-30{
+		bottom:155px;
+		left:194px;
+		font-size:10px ;
+		padding:3px 2px;
+	}
+	.section-31{
+		bottom:128px;
+		left:170px;
+		font-size:10px ;
+		padding:4px 10px;
+	}
+	.section-32{
+		bottom:118px;
+		left:153px;
+		font-size:7px ;
+		padding:0px 1px;
+	}
+	.section-33{
+		bottom:105px;
+		left:153px;
+		font-size:7px ;
+		padding:0px 1px;
+	}
+	.section-34{
+		bottom:91px;
+		left:153px;
+		font-size:7px ;
+		padding:0px 1px;
+	}
+	.section-35{
+		bottom:68px;
+		left:159px;
+		font-size:5px ;
+		padding:0px 5px;
+	}
+	.section-36{
+		bottom:68px;
+		left:178px;
+		font-size:5px ;
+		padding:0px 5px;
+	}
+	.section-37{
+		bottom:115px;
+		left:199px;
+		font-size:6px ;
+		padding:0px 2px;
+	}
+	.section-38{
+		bottom:104px;
+		left:198px;
+		font-size:5px ;
+		padding:0px 3px;
+	}
+	.section-39{
+		bottom:93px;
+		left:199px;
+		font-size:5px ;
+		padding:0px 3px;
+	}
+	.section-40{
+		bottom:82px;
+		left:199px;
+		font-size:5px ;
+		padding:0px 3px;
+	}
+}
